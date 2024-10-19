@@ -11,7 +11,7 @@
 
 
 ## **Overview**
-This tool automates the process of interacting with a website using Selenium in C#. It is designed to streamline repetitive tasks by simulating user actions on the web, such as logging in, filling forms, and navigating through pages.
+This tool automates the process of interacting with a website using Selenium & WinApi in C#. It is designed to streamline repetitive tasks by simulating user actions on the web, such as logging in, filling forms, and navigating through pages.
 
 Features
 Automated Login: Uses credentials stored in a secure YAML file to log in to the target website. path(\bin\Debug\net8.0\credentials.yaml)
